@@ -1,6 +1,7 @@
 # Bitcoin-trading
 Bitcoin, or talking in a more general term: cryptocurrency, has caught many experts and researchers' attention regarding to its similarity of trading in financial market and its volatility in price. Cryptocurrencies have the potential to make the world better by letting any two people in the world exchange money directly, without involving a financial institution or government. Experts often talk about the many ways crypto can address the shortcomings of our current financial system. Things like high fees, identity theft, and extreme economic inequality are an unfortunate part of our current financial system and they’re also things crypto has the potential to address. This is called Decnetralized Finance. 
 One of the key reasons that I choose the Applied Analytics minor is to use data analysis as a tool to discover some insights behind business world. As a student major in Economics, I am interested in cryptocurrency and decided to research on the profitability of different cryptocurrencies. 
+
 Several interesting cryptocurrencies:
   The Basic Attention Token (BAT) is an Ethereum-based token that is designed to improve digital advertising on the web.
   DAI: stable coin. Aim to always worth 1 dollar. running on the Ethereum blockchain.
